@@ -1,4 +1,4 @@
- ![logo](https://img.freepik.com/free-photo/gradient-dark-blue-futuristic-digital-grid-background_53876-129728.jpg?ga=GA1.1.1376501955.1743711208&semt=ais_hybrid&w=740)
+ ![logo](https://img.freepik.com/premium-vector/abstract-dark-blue-modern-futuristic-science-technology-hi-tech-digital-abstract-dark-blue-colorful-design-banner-background-vector-abstract-graphic-design-banner-pattern-background-web-template_181182-33457.jpg?ga=GA1.1.1376501955.1743711208&semt=ais_hybrid&w=740)
 <h1 align="center">Hi 👋, I'm Apurva Joshi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Data analyst" width="400" src="https://dribbble.com/shots/3848396-Character-Typing"<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva2507&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva2507" /> </p>
