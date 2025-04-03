@@ -1,7 +1,7 @@
  ![logo](https://img.freepik.com/premium-vector/abstract-dark-blue-modern-futuristic-science-technology-hi-tech-digital-abstract-dark-blue-colorful-design-banner-background-vector-abstract-graphic-design-banner-pattern-background-web-template_181182-33457.jpg?ga=GA1.1.1376501955.1743711208&semt=ais_hybrid&w=740)
 <h1 align="center">Hi 👋, I'm Apurva Joshi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Data analyst" width="400" src="https://dribbble.com/shots/3848396-Character-Typing"<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva2507&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva2507" /> </p>
+<img align="right" alt="Data analyst" width="400" src="https://dribbble.com/shots/3848396-Character-Typing"<p align="left"> <img src=https://camo.githubusercontent.com/6a5d95f90faf63ed6a558facf69c17e208351cac026c853a3c9793b29a99f4c4/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966 alt="apoorva2507" /> </p>
 
 - 🔭 I’m currently working on **building my skills in Python, SQL, and data visualization tools and Power BI**
 
