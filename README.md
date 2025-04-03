@@ -1,4 +1,4 @@
-![logo](https://github.com/apurva2507/github-banner)
+
 <h1 align="center">Hi 👋, I'm Apurva Joshi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Data analyst" width="400" src="https://dribbble.com/shots/3848396-Character-Typing"<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorva2507&label=Profile%20views&color=0e75b6&style=flat" alt="apoorva2507" /> </p>
